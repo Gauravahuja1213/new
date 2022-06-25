@@ -1,14 +1,32 @@
 .color{
-    background-color:gray;
-    border-radius: 4%;
+    background-color:grey;
+    border-radius: 15px;
 }
 .cola{
-    margin-top:100px;
-   
+    margin-top:2px;
+    height: 100px;
+    width: 1400px;
+    border: none;
+}
+.whatsapp_bg{
+    height: 450px;
+    width: 1400px;
+    border: none;
+    margin-top: 30px;
+    justify-content: center;
+    background:rgb(63, 58, 58);
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;
 }
 .btna{
-    margin-top:20px;
-    margin-bottom:20px;
+    margin-top:15px;
+    margin-bottom:15px;
+    border-radius: 5px;
+    padding-left: 15px;
+    padding-right:15px;
+    color:white;
+    background-color: black;
 }
 .heading{
     color:white;
