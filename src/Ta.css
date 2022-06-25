@@ -1,0 +1,19 @@
+.color{
+    background-color:gray;
+    border-radius: 4%;
+}
+.cola{
+    margin-top:100px;
+   
+}
+.btna{
+    margin-top:20px;
+    margin-bottom:20px;
+}
+.heading{
+    color:white;
+    text-align:center;
+    padding-top:50px;
+    font-family: 'Oswald', sans-serif;
+    text-decoration:underline;
+}
